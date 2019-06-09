@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LakeviewILS.API", "LakeviewILS.API\LakeviewILS.API.csproj", "{CF5BDA79-26C4-4DDE-ABEB-CEFE956E7AEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LakeviewILS.WebApp", "LakeviewILS.WebApp\LakeviewILS.WebApp.csproj", "{96FE3F76-5761-4C9E-92ED-F5EA982D155D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF5BDA79-26C4-4DDE-ABEB-CEFE956E7AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5BDA79-26C4-4DDE-ABEB-CEFE956E7AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5BDA79-26C4-4DDE-ABEB-CEFE956E7AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5BDA79-26C4-4DDE-ABEB-CEFE956E7AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96FE3F76-5761-4C9E-92ED-F5EA982D155D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96FE3F76-5761-4C9E-92ED-F5EA982D155D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96FE3F76-5761-4C9E-92ED-F5EA982D155D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96FE3F76-5761-4C9E-92ED-F5EA982D155D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA8BCFD7-FF94-40D9-9421-CD2D1A11E4CF}
+	EndGlobalSection
+EndGlobal
