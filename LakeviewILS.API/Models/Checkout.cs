@@ -5,6 +5,8 @@ namespace LakeviewILS.API.Models
 {
     public class Checkout
     {
+        public int Id { get; set; }
+
         [Required]
         public LibraryAsset LibraryAsset { get; set; }
 
